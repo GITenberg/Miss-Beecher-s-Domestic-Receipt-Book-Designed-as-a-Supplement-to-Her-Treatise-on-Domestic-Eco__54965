@@ -1,0 +1,32 @@
+_repo: Miss-Beecher-s-Domestic-Receipt-Book-Designed-as-a-Supplement-to-Her-Treatise-on-Domestic-Eco__54965
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beecher, Catharine Esther
+    aliases:
+    - Beecher, Catherine E. (Catherine Esther)
+    - Beecher, Catharine E.
+    - Beecher, C. E. (Catherine Esther)
+    birthdate: 1800
+    deathdate: 1878
+    gutenberg_agent_id: '2109'
+    url: http://www.gutenberg.org/2009/agents/2109
+    wikipedia: http://en.wikipedia.org/wiki/Catharine_Beecher
+description: ''
+gutenberg_issued: '2017-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54965'
+  lccn: 08016060
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- GITenberg
+title: 'Miss Beecher''s Domestic Receipt Book
+
+  Designed as a Supplement to Her Treatise on Domestic Economy'
+url: http://www.gutenberg.org/ebooks/54965
